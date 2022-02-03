@@ -1,4 +1,5 @@
-
+/* use the object created in class.Take a number from the user input and return a list.(do this in console.log) of all the studentss who have secored equal to or more ehan those marks.
+*/
 var obj = {
     "first_name" : "Monika",
     "last_name" : "Maurya",
